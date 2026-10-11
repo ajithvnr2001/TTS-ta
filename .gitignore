@@ -18,6 +18,12 @@ ENV/
 __results__.html
 __notebook__.ipynb
 
+# Audio build outputs
+output_10min/
+output_part2/
+*.wav
+
 # System / OS
 .DS_Store
 Thumbs.db
+

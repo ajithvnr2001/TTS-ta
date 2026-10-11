@@ -1,0 +1,314 @@
+{
+  "status": "success",
+  "project": "tamil_10min_cinematic_thriller_full",
+  "title": "காலச் சுழல் (The Chrono Spiral) - முழுமையான 10 நிமிட பிரம்மாண்ட திரில்லர்",
+  "narrator": "Jaya (AI4Bharat Indic Parler-TTS)",
+  "target_reached_10mins": true,
+  "total_duration_sec": 626.61,
+  "total_duration_min": 10.44,
+  "sample_rate_hz": 44100,
+  "format": "16-bit PCM Mono WAV, Peak-Normalized (0.95)",
+  "total_beats": 30,
+  "timeline": [
+    {
+      "beat": 1,
+      "filename": "beat_01_midnight_anomaly.wav",
+      "title": "Act I - Midnight Anomaly (நள்ளிரவு மர்மம்)",
+      "start_time_sec": 0.0,
+      "start_time_formatted": "00:00",
+      "end_time_sec": 11.3,
+      "end_time_formatted": "00:11",
+      "duration_sec": 11.3
+    },
+    {
+      "beat": 2,
+      "filename": "beat_02_descent_into_crater.wav",
+      "title": "Act I - Descent into Crater (பள்ளத்தாக்கின் மர்மம்)",
+      "start_time_sec": 11.8,
+      "start_time_formatted": "00:11",
+      "end_time_sec": 29.04,
+      "end_time_formatted": "00:29",
+      "duration_sec": 17.24
+    },
+    {
+      "beat": 3,
+      "filename": "beat_03_breached_airlock.wav",
+      "title": "Act I - Breached Airlock (திறந்த கதவு)",
+      "start_time_sec": 29.54,
+      "start_time_formatted": "00:29",
+      "end_time_sec": 59.73,
+      "end_time_formatted": "00:59",
+      "duration_sec": 30.2
+    },
+    {
+      "beat": 4,
+      "filename": "beat_04_earth_coordinates.wav",
+      "title": "Act I - Twist 1: Earth Coordinates (முதல் திருப்பம்: பூமி தான் அது!)",
+      "start_time_sec": 60.23,
+      "start_time_formatted": "01:00",
+      "end_time_sec": 90.43,
+      "end_time_formatted": "01:30",
+      "duration_sec": 30.2
+    },
+    {
+      "beat": 5,
+      "filename": "beat_05_the_groaning_cockpit.wav",
+      "title": "Act II - The Groaning Cockpit (விண்கலத்தின் அழுகுரல்)",
+      "start_time_sec": 90.93,
+      "start_time_formatted": "01:30",
+      "end_time_sec": 112.67,
+      "end_time_formatted": "01:52",
+      "duration_sec": 21.73
+    },
+    {
+      "beat": 6,
+      "filename": "beat_06_unmasking_the_pilot.wav",
+      "title": "Act II - Twist 2: Unmasking the Pilot (இரண்டாம் திருப்பம்: அதே முகம், அதே தழும்பு!)",
+      "start_time_sec": 113.17,
+      "start_time_formatted": "01:53",
+      "end_time_sec": 137.05,
+      "end_time_formatted": "02:17",
+      "duration_sec": 23.88
+    },
+    {
+      "beat": 7,
+      "filename": "beat_07_the_apocalypse_warning.wav",
+      "title": "Act II - The Apocalypse Warning (காலப் பேரழிவு எச்சரிக்கை)",
+      "start_time_sec": 137.55,
+      "start_time_formatted": "02:17",
+      "end_time_sec": 166.93,
+      "end_time_formatted": "02:46",
+      "duration_sec": 29.38
+    },
+    {
+      "beat": 8,
+      "filename": "beat_08_the_fatal_paradox.wav",
+      "title": "Act II - Twist 3: The Fatal Paradox (மூன்றாம் திருப்பம்: நீ சாகவில்லை, சிக்கியுள்ளாய்!)",
+      "start_time_sec": 167.43,
+      "start_time_formatted": "02:47",
+      "end_time_sec": 197.63,
+      "end_time_formatted": "03:17",
+      "duration_sec": 30.2
+    },
+    {
+      "beat": 9,
+      "filename": "beat_09_the_countdown_arms.wav",
+      "title": "Act III - The Countdown Arms (இடி மின்னல் கவுண்டவுன்)",
+      "start_time_sec": 198.13,
+      "start_time_formatted": "03:18",
+      "end_time_sec": 224.93,
+      "end_time_formatted": "03:44",
+      "duration_sec": 26.8
+    },
+    {
+      "beat": 10,
+      "filename": "beat_10_chrono_hunters_arrive.wav",
+      "title": "Act III - Twist 4: Chrono Hunters Arrive (நான்காம் திருப்பம்: நிழல் வேட்டைக்காரர்கள்!)",
+      "start_time_sec": 225.43,
+      "start_time_formatted": "03:45",
+      "end_time_sec": 240.41,
+      "end_time_formatted": "04:00",
+      "duration_sec": 14.99
+    },
+    {
+      "beat": 11,
+      "filename": "beat_11_the_forest_encirclement.wav",
+      "title": "Act III - The Forest Encirclement (சுற்றுவளைக்கப்பட்ட காடு)",
+      "start_time_sec": 240.91,
+      "start_time_formatted": "04:00",
+      "end_time_sec": 249.55,
+      "end_time_formatted": "04:09",
+      "duration_sec": 8.64
+    },
+    {
+      "beat": 12,
+      "filename": "beat_12_the_emp_blast.wav",
+      "title": "Act III - Twist 5: The EMP Blast (ஐந்தாம் திருப்பம்: மின்காந்த அதிர்ச்சி அலை!)",
+      "start_time_sec": 250.05,
+      "start_time_formatted": "04:10",
+      "end_time_sec": 270.07,
+      "end_time_formatted": "04:30",
+      "duration_sec": 20.02
+    },
+    {
+      "beat": 13,
+      "filename": "beat_13_the_memory_crystal.wav",
+      "title": "Act IV - The Memory Crystal (நினைவுப் படிகத்தின் ரகசியம்)",
+      "start_time_sec": 270.57,
+      "start_time_formatted": "04:30",
+      "end_time_sec": 285.68,
+      "end_time_formatted": "04:45",
+      "duration_sec": 15.12
+    },
+    {
+      "beat": 14,
+      "filename": "beat_14_the_terrible_cost.wav",
+      "title": "Act IV - Twist 6: The Terrible Cost (ஆறாம் திருப்பம்: ஒரு காலக்கோடு அழிய வேண்டும்!)",
+      "start_time_sec": 286.18,
+      "start_time_formatted": "04:46",
+      "end_time_sec": 313.55,
+      "end_time_formatted": "05:13",
+      "duration_sec": 27.36
+    },
+    {
+      "beat": 15,
+      "filename": "beat_15_the_hull_breach.wav",
+      "title": "Act IV - The Hull Breach (உடைபட்ட விண்கலக் கூடு)",
+      "start_time_sec": 314.05,
+      "start_time_formatted": "05:14",
+      "end_time_sec": 331.8,
+      "end_time_formatted": "05:31",
+      "duration_sec": 17.75
+    },
+    {
+      "beat": 16,
+      "filename": "beat_16_the_last_stand.wav",
+      "title": "Act IV - Twist 7: The Last Stand (ஏழாம் திருப்பம்: உனக்காக நான் நிற்கிறேன்!)",
+      "start_time_sec": 332.3,
+      "start_time_formatted": "05:32",
+      "end_time_sec": 345.83,
+      "end_time_formatted": "05:45",
+      "duration_sec": 13.53
+    },
+    {
+      "beat": 17,
+      "filename": "beat_17_the_escape_pod.wav",
+      "title": "Act V - The Escape Pod (தப்புவிக்கும் காப்ஸ்யூல்)",
+      "start_time_sec": 346.33,
+      "start_time_formatted": "05:46",
+      "end_time_sec": 376.52,
+      "end_time_formatted": "06:16",
+      "duration_sec": 30.2
+    },
+    {
+      "beat": 18,
+      "filename": "beat_18_sealing_the_hatch.wav",
+      "title": "Act V - Twist 8: Sealing the Hatch (எட்டாம் திருப்பம்: விடைபெறும் மூத்த கதிர்!)",
+      "start_time_sec": 377.02,
+      "start_time_formatted": "06:17",
+      "end_time_sec": 388.25,
+      "end_time_formatted": "06:28",
+      "duration_sec": 11.23
+    },
+    {
+      "beat": 19,
+      "filename": "beat_19_the_cobalt_explosion.wav",
+      "title": "Act V - The Cobalt Explosion (நீலக் கோபால்ட் வெடிப்பு)",
+      "start_time_sec": 388.75,
+      "start_time_formatted": "06:28",
+      "end_time_sec": 408.07,
+      "end_time_formatted": "06:48",
+      "duration_sec": 19.32
+    },
+    {
+      "beat": 20,
+      "filename": "beat_20_the_infinite_loop_shattered.wav",
+      "title": "Act V - Twist 9: The Loop Shattered (ஒன்பதாம் திருப்பம்: அறுபட்ட காலச் சங்கிலி!)",
+      "start_time_sec": 408.57,
+      "start_time_formatted": "06:48",
+      "end_time_sec": 416.43,
+      "end_time_formatted": "06:56",
+      "duration_sec": 7.86
+    },
+    {
+      "beat": 21,
+      "filename": "beat_21_temporal_slipstream.wav",
+      "title": "Act VI - Earth 2550 (பூமி 2550: கருகிய எதிர்காலம்)",
+      "start_time_sec": 416.93,
+      "start_time_formatted": "06:56",
+      "end_time_sec": 447.13,
+      "end_time_formatted": "07:27",
+      "duration_sec": 30.2
+    },
+    {
+      "beat": 22,
+      "filename": "beat_22_arrival_earth_2550.wav",
+      "title": "Act VI - Twist 10: The Citadel of Chronos (பத்தாம் திருப்பம்: காலப் பெருங்கோபுரம்!)",
+      "start_time_sec": 447.63,
+      "start_time_formatted": "07:27",
+      "end_time_sec": 456.57,
+      "end_time_formatted": "07:36",
+      "duration_sec": 8.94
+    },
+    {
+      "beat": 23,
+      "filename": "beat_23_citadel_of_chronos.wav",
+      "title": "Act VII - Infiltration (கொடூர ரோபோக்களின் அரண்மனைக்குள்)",
+      "start_time_sec": 457.07,
+      "start_time_formatted": "07:37",
+      "end_time_sec": 481.0,
+      "end_time_formatted": "08:00",
+      "duration_sec": 23.93
+    },
+    {
+      "beat": 24,
+      "filename": "beat_24_infiltrating_the_reactor.wav",
+      "title": "Act VII - Twist 11: The Secret Core (பதினொன்றாம் திருப்பம்: பிரபஞ்சத்தின் இதயத் துடிப்பு!)",
+      "start_time_sec": 481.5,
+      "start_time_formatted": "08:01",
+      "end_time_sec": 502.18,
+      "end_time_formatted": "08:22",
+      "duration_sec": 20.69
+    },
+    {
+      "beat": 25,
+      "filename": "beat_25_the_master_architect.wav",
+      "title": "Act VIII - The Master Architect (காலப் பெருஞ்சிற்பி சித்தார்த்)",
+      "start_time_sec": 502.68,
+      "start_time_formatted": "08:22",
+      "end_time_sec": 509.7,
+      "end_time_formatted": "08:29",
+      "duration_sec": 7.01
+    },
+    {
+      "beat": 26,
+      "filename": "beat_26_the_secret_conspiracy.wav",
+      "title": "Act VIII - Twist 12: The Architect Identity (பன்னிரண்டாம் திருப்பம்: காலத்தை அடிமையாக்கியவன்!)",
+      "start_time_sec": 510.2,
+      "start_time_formatted": "08:30",
+      "end_time_sec": 532.45,
+      "end_time_formatted": "08:52",
+      "duration_sec": 22.26
+    },
+    {
+      "beat": 27,
+      "filename": "beat_27_duel_of_destinies.wav",
+      "title": "Act IX - The Duel of Timelines (காலக் கோடுகளின் இறுதி மோதல்)",
+      "start_time_sec": 532.95,
+      "start_time_formatted": "08:52",
+      "end_time_sec": 540.38,
+      "end_time_formatted": "09:00",
+      "duration_sec": 7.43
+    },
+    {
+      "beat": 28,
+      "filename": "beat_28_overloading_the_core.wav",
+      "title": "Act IX - Twist 13: Overloading Core (பதின்மூன்றாம் திருப்பம்: பேரழிவை வெடிக்கும் தியாகம்!)",
+      "start_time_sec": 540.88,
+      "start_time_formatted": "09:00",
+      "end_time_sec": 569.42,
+      "end_time_formatted": "09:29",
+      "duration_sec": 28.54
+    },
+    {
+      "beat": 29,
+      "filename": "beat_29_the_temporal_reset.wav",
+      "title": "Act X - The Great Collapse (நொறுங்கி விழும் காலச் சிறை)",
+      "start_time_sec": 569.92,
+      "start_time_formatted": "09:29",
+      "end_time_sec": 595.42,
+      "end_time_formatted": "09:55",
+      "duration_sec": 25.5
+    },
+    {
+      "beat": 30,
+      "filename": "beat_30_grand_resolution_peaceful_dawn.wav",
+      "title": "Act X - Twist 14: The Peaceful Dawn (இறுதித் திருப்பம்: மலர்ந்த அமைதி விடியல்!)",
+      "start_time_sec": 595.92,
+      "start_time_formatted": "09:55",
+      "end_time_sec": 626.11,
+      "end_time_formatted": "10:26",
+      "duration_sec": 30.2
+    }
+  ]
+}

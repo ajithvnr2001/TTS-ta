@@ -242,6 +242,58 @@ Automated evaluation using Google Speech Recognition (`ta-IN`) across synthesize
 
 ---
 
+## 🎬 10-Minute Cinematic Sci-Fi Thriller Masterpiece: "காலச் சுழல்" (The Chrono Spiral)
+
+An end-to-end continuous **10.44-minute (626.61 seconds)** Tamil audio drama synthesized at 44.1 kHz 16-bit PCM Mono with narrator voice **Jaya**.
+
+* **Master Audio File**: `tamil_10min_cinematic_thriller_master.wav` (52.71 MB)
+* **Master Metadata & Timeline**: `thriller_10min_full_summary.json`
+* **Total Duration**: **626.61 seconds (10 min 26 sec)** — *Strictly exceeds the 600-second constraint*
+* **Total Narrative Beats**: 30 Continuous Beats across 10 Dramatic Acts
+* **Plot Twists**: 14 Major Mind-Bending Twists
+* **Consistent Characters**:
+  1. **Kathir (கதிர்)** — Young protagonist & astrophysicist.
+  2. **Captain Kathir (மூத்த கதிர்)** — Older battle-hardened self from 30 years in the future.
+  3. **Chrono Hunters (நிழல் வேட்டைக்காரர்கள்)** — Faceless cyber-assassins sent to guard the timeline.
+  4. **Ship AI Computer (கணினி)** — Vocal countdowns, breach notifications, navigation guidance.
+  5. **Siddharth (சித்தார்த்)** — Master Architect & cyborg mastermind who weaponized the timeline.
+
+### ⏱️ Full 10-Minute Scene Timeline
+
+| Timestamp | Act & Scene | Tamil Title | Key Plot Event / Twist |
+| :--- | :--- | :--- | :--- |
+| **00:00 - 00:11** | Act I - Beat 01 | நள்ளிரவு மர்மம் | Unidentified craft crashes in the Tamil Nadu mountain forests. |
+| **00:11 - 00:29** | Act I - Beat 02 | பள்ளத்தாக்கின் மர்மம் | Kathir descends into the smoking crater. |
+| **00:29 - 00:59** | Act I - Beat 03 | திறந்த கதவு | Kathir approaches the breached hydraulic airlock. |
+| **01:00 - 01:30** | Act I - Beat 04 (Twist 1) | பூமி தான் அது! | Ship markings are Tamil and origin is Earth itself. |
+| **01:30 - 01:52** | Act II - Beat 05 | விண்கலத்தின் அழுகுரல் | Groaning cockpit and dying pilot discovered. |
+| **01:53 - 02:17** | Act II - Beat 06 (Twist 2) | அதே முகம், அதே தழும்பு! | Unmasking the pilot: it is Kathir's older self from the future! |
+| **02:17 - 02:44** | Act II - Beat 07 | காலப் பேரழிவு எச்சரிக்கை | Warning of global apocalypse in 2550 AD. |
+| **02:44 - 03:09** | Act II - Beat 08 (Twist 3) | நீ சாகவில்லை, சிக்கியுள்ளாய்! | The Fatal Paradox: the timeline is an endless loop. |
+| **03:10 - 03:22** | Act III - Beat 09 | இடி மின்னல் கவுண்டவுன் | Self-destruct countdown triggers; atmospheric storm. |
+| **03:23 - 03:40** | Act III - Beat 10 (Twist 4) | நிழல் வேட்டைக்காரர்கள்! | Chrono Hunters emerge from the shadows. |
+| **03:41 - 03:59** | Act III - Beat 11 | சுற்றுவளைக்கப்பட்ட காடு | Laser sights lock onto Kathir. |
+| **04:00 - 04:30** | Act III - Beat 12 (Twist 5) | மின்காந்த அதிர்ச்சி அலை! | EMP blast detonates, blinding the hunters. |
+| **04:30 - 04:54** | Act IV - Beat 13 | நினைவுப் படிகத்தின் ரகசியம் | The glowing Blue Memory Crystal is handed over. |
+| **04:55 - 05:13** | Act IV - Beat 14 (Twist 6) | ஒரு காலக்கோடு அழிய வேண்டும்! | The Terrible Cost: one timeline must be sacrificed. |
+| **05:14 - 05:32** | Act IV - Beat 15 | உடைபட்ட விண்கலக் கூடு | Hull breach intensifies under heavy gunfire. |
+| **05:33 - 05:54** | Act IV - Beat 17 (Twist 7) | தப்புவிக்கும் காப்ஸ்யூல் | Older Kathir forces young Kathir into the escape pod. |
+| **05:54 - 06:17** | Act V - Beat 18 (Twist 8) | விடைபெறும் மூத்த கதிர்! | Older Kathir seals the hatch and bids final farewell. |
+| **06:18 - 06:33** | Act V - Beat 19 | நீலக் கோபால்ட் வெடிப்பு | Cobalt reactor explodes, engulfing the ship. |
+| **06:33 - 06:56** | Act V - Beat 20 (Twist 9) | அறுபட்ட காலச் சங்கிலி! | Loop is shattered; young Kathir hurtles forward into time. |
+| **06:56 - 07:18** | Act VI - Beat 21 | கால வெளிப்பாதை | Escape pod traverses the temporal slipstream. |
+| **07:18 - 07:44** | Act VI - Beat 22 (Twist 10) | பூமி 2550: சாம்பல் உலகம் | Arrival in 2550: an ash-covered dystopian wasteland. |
+| **07:45 - 08:04** | Act VII - Beat 23 | காலக் கோட்டை | The monolithic Citadel of Chronos towering into the toxic sky. |
+| **08:05 - 08:24** | Act VII - Beat 24 (Twist 11) | மையக் கருவுக்குள் நுழைவு | Stealth infiltration into the heart of the temporal reactor. |
+| **08:25 - 08:44** | Act VIII - Beat 25 (Twist 12) | அதிர்ச்சி உண்மை: சித்தார்த்! | Confrontation with Master Architect: Kathir's former best friend! |
+| **08:45 - 09:07** | Act VIII - Beat 26 | சித்தார்த்தின் வஞ்சகத் திட்டம் | Siddharth reveals his plot to enslave all timelines. |
+| **09:07 - 09:15** | Act IX - Beat 27 | விதியின் யுத்தம் | High-stakes plasma rifle & cybernetic blade duel. |
+| **09:15 - 09:44** | Act IX - Beat 28 (Twist 13) | மையக் கருவின் வெடிப்பு | Kathir throws the memory crystal into the reactor core. |
+| **09:44 - 10:10** | Act X - Beat 29 | காலத்தின் மறுபிறப்பு | Great Collapse: white light unweaves 250 years of dystopia. |
+| **10:10 - **10:26**** | Act X - Beat 30 (Twist 14) | அமைதியான விடியல் | Grand Resolution: Kathir awakens at dawn; timeline saved! |
+
+---
+
 ## 📜 Citation & Credits
 
 If you use this pipeline or research in your projects, please cite AI4Bharat and Hugging Face:
@@ -261,3 +313,4 @@ If you use this pipeline or research in your projects, please cite AI4Bharat and
 
 ## 📄 License
 This repository is released under the **Apache 2.0 License**. Models and datasets are subject to their respective AI4Bharat and Hugging Face licenses.
+
