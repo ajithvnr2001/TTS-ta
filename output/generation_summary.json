@@ -1,0 +1,104 @@
+{
+  "status": "success",
+  "project": "indic-parler-tts-tamil",
+  "model": "RXD03/indic-parler-tts",
+  "language": "ta (Tamil)",
+  "institution": "AI4Bharat (IIT Madras) & Hugging Face",
+  "sample_rate_hz": 44100,
+  "speaker_jaya": {
+    "master_file": "tamil_1min_indic_parler_jaya_master.wav",
+    "duration_sec": 48.31,
+    "compute_time_sec": 70.07,
+    "beats": [
+      {
+        "beat": 1,
+        "name": "opening_dialogue",
+        "filename": "indic_parler_jaya_beat_1.wav",
+        "duration_sec": 16.07,
+        "words": 28,
+        "wpm": 104,
+        "compute_sec": 24.02,
+        "rtf": 1.495
+      },
+      {
+        "beat": 2,
+        "name": "anomaly_dialogue",
+        "filename": "indic_parler_jaya_beat_2.wav",
+        "duration_sec": 7.62,
+        "words": 26,
+        "wpm": 204,
+        "compute_sec": 11.25,
+        "rtf": 1.476
+      },
+      {
+        "beat": 3,
+        "name": "wonder_dialogue",
+        "filename": "indic_parler_jaya_beat_3.wav",
+        "duration_sec": 14.05,
+        "words": 28,
+        "wpm": 119,
+        "compute_sec": 20.28,
+        "rtf": 1.443
+      },
+      {
+        "beat": 4,
+        "name": "climax_dialogue",
+        "filename": "indic_parler_jaya_beat_4.wav",
+        "duration_sec": 9.38,
+        "words": 23,
+        "wpm": 147,
+        "compute_sec": 13.46,
+        "rtf": 1.435
+      }
+    ]
+  },
+  "speaker_kavitha": {
+    "master_file": "tamil_1min_indic_parler_kavitha_master.wav",
+    "duration_sec": 68.41,
+    "compute_time_sec": 97.31,
+    "beats": [
+      {
+        "beat": 1,
+        "name": "opening_dialogue",
+        "filename": "indic_parler_kavitha_beat_1.wav",
+        "duration_sec": 17.32,
+        "words": 28,
+        "wpm": 97,
+        "compute_sec": 24.97,
+        "rtf": 1.442
+      },
+      {
+        "beat": 2,
+        "name": "anomaly_dialogue",
+        "filename": "indic_parler_kavitha_beat_2.wav",
+        "duration_sec": 15.92,
+        "words": 26,
+        "wpm": 97,
+        "compute_sec": 22.62,
+        "rtf": 1.421
+      },
+      {
+        "beat": 3,
+        "name": "wonder_dialogue",
+        "filename": "indic_parler_kavitha_beat_3.wav",
+        "duration_sec": 15.15,
+        "words": 28,
+        "wpm": 111,
+        "compute_sec": 21.59,
+        "rtf": 1.425
+      },
+      {
+        "beat": 4,
+        "name": "climax_dialogue",
+        "filename": "indic_parler_kavitha_beat_4.wav",
+        "duration_sec": 18.82,
+        "words": 23,
+        "wpm": 73,
+        "compute_sec": 27.01,
+        "rtf": 1.435
+      }
+    ]
+  },
+  "canonical_master_file": "tamil_1min_indic_parler_master.wav",
+  "canonical_duration_sec": 48.31
+}

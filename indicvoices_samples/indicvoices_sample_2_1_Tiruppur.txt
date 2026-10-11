@@ -1,0 +1,5 @@
+Speaker: S4258817000383542
+Gender: 1
+District: Tiruppur
+Duration: 2.464
+Text: வளர்ந்து வரும் உலகம்

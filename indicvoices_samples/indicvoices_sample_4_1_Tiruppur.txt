@@ -1,0 +1,5 @@
+Speaker: S4258817000383542
+Gender: 1
+District: Tiruppur
+Duration: 1.215
+Text: மாறிக்கிட்டு தான் இருக்குது உலகம்

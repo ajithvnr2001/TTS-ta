@@ -1,0 +1,15 @@
+{
+  "id": "ajithkumaevnr2001/indic-parler-tts",
+  "title": "indic-parler-tts",
+  "code_file": "run_batch.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

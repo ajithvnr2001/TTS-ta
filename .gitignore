@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and error traces
+*.log
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Kaggle / temporary downloads
+.kaggle/
+__results__.html
+__notebook__.ipynb
+
+# System / OS
+.DS_Store
+Thumbs.db

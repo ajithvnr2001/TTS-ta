@@ -1,0 +1,5 @@
+Speaker: S4258817000383542
+Gender: 1
+District: Tiruppur
+Duration: 1.602
+Text: செய்தி தாள்களேயும் நியூஸ்களேயும்
