@@ -6,13 +6,16 @@ api = KaggleApi()
 api.authenticate()
 
 res = api.kernels_logs('ajithkumaevnr2001/indic-parler-tts')
-with open('kernel_v2_error.log', 'w', encoding='utf-8') as f:
+with open('kernel_v5_error.log', 'w', encoding='utf-8') as f:
     if isinstance(res, list):
         for entry in res:
-            f.write(f"[{entry.get('stream_name')}] {entry.get('data')}\n")
-    elif isinstance(res, dict):
-        f.write(str(res))
+            sn = entry.get('stream_name')
+            d = entry.get('data')
+            f.write(f"[{sn}] {d}")
     else:
         f.write(str(res))
 
-print("Successfully written kernel_v2_error.log!")
+print("Successfully written kernel_v5_error.log!")
+with open('kernel_v5_error.log', 'r', encoding='utf-8') as f:
+    lines = f.readlines()
+    print("".join(lines[-40:]))

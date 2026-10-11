@@ -1,6 +1,6 @@
 {
-  "id": "ajithkumaevnr2001/indic-parler-tts",
-  "title": "indic-parler-tts",
+  "id": "ajithkumaevnr2001/tamil-tts-dataset-builder",
+  "title": "tamil-tts-dataset-builder",
   "code_file": "run_batch.py",
   "language": "python",
   "kernel_type": "script",

@@ -1,6 +1,10 @@
 # 🎙️ TTS-ta: Authentic Native Tamil Text-to-Speech Engine
 > High-fidelity, accent-perfect Tamil speech synthesis powered by **AI4Bharat Indic Parler-TTS** (IIT Madras & Hugging Face). Produces broadcast-quality 44.1 kHz audio with zero foreign accent drift and natural Tamil Nadu conversational intonation.
 
+[![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Tamil%20Multi--Slang%20Speech%20Dataset-blue)](https://huggingface.co/datasets/ajithvnr2001/tamil-multislang-multigenre-speech-dataset)
+
+**Official Hugging Face Dataset**: [ajithvnr2001/tamil-multislang-multigenre-speech-dataset](https://huggingface.co/datasets/ajithvnr2001/tamil-multislang-multigenre-speech-dataset)
+
 ---
 
 ## 📌 Executive Summary & Model Architecture
